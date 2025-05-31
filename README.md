@@ -30,3 +30,5 @@
 
 Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.
 
+![Screenshot_10](https://github.com/user-attachments/assets/904ef018-87c4-4e77-b8b7-2870b40ed98b)
+

@@ -25,4 +25,8 @@
 ![Screenshot_7](https://github.com/user-attachments/assets/77271bf4-ee76-4df3-b5a5-44dbfd7100e3)
 
 # Задание 4
+Запись данных в Redis
+Запишите в Redis несколько ключей с любыми именами и значениями.
 
+Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.
+![Screenshot_8](https://github.com/user-attachments/assets/981f7ec6-0625-4fc0-944d-a3415a3d881f)
